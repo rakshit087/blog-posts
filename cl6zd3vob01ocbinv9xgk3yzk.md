@@ -1,4 +1,4 @@
-## Polygon Fellowship: Story So Far
+## Polygon Fellowship: Wrapping it up
 
 > Eight weeks, fifty builders, amazing projects, awesome sessions and tons of learning and building 
 
