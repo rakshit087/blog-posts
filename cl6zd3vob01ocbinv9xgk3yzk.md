@@ -2,7 +2,7 @@
 
 > Eight weeks, fifty builders, amazing projects, awesome sessions and tons of learning and building 
 
-In this post I want to share my personal experience with Polygon Fellowship, if you are interested in what I learned in the fellowship, you can start here.
+In this post I want to share my personal experience with Polygon Fellowship, if you are interested in what I learned in the fellowship, I have an entire series dedicated to it which you can start [here](https://rakshit087.hashnode.dev/my-week-1-polygon-fellowship).
 
 ### How I got in?
 Okay! So I want to start from the very beginning. I got a mail from [Devfolio](https://devfolio.co/) about the Fellowship they were organizing with Polygon. At first, I was quite hesitant to fill out the form, but a whole hearted thanks you to my roommates for constantly reminding me to do so. I took around two weeks to fill the form and after a bunch of rewrites I finally submitted the form. 
