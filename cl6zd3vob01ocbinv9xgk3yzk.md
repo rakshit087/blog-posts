@@ -2,10 +2,10 @@
 
 > Eight weeks, fifty builders, amazing projects, awesome sessions and tons of learning and building 
 
-In this post I want to share my personal experience with Polygon Fellowship, if you are interested in what I learned in the fellowship, I have an entire series dedicated to it which you can start [here](https://rakshit087.hashnode.dev/my-week-1-polygon-fellowship).
+In this post I want to share my personal experience with Polygon Fellowship. If you are interested in what I learned in the fellowship, I have an entire series dedicated to it which you can start [here](https://rakshit087.hashnode.dev/my-week-1-polygon-fellowship).
 
 ### How I got in?
-Okay! So I want to start from the very beginning. I got a mail from [Devfolio](https://devfolio.co/) about the Fellowship they were organizing with Polygon. At first, I was quite hesitant to fill out the form, but a whole hearted thanks you to my roommates for constantly reminding me to do so. I took around two weeks to fill the form and after a bunch of rewrites I finally submitted the form. 
+I want to start from the very beginning. I got a mail from [Devfolio](https://devfolio.co/) about a fellowship they were organizing with Polygon. At first, I was quite hesitant to fill out the form, but a whole hearted thanks to my roommates for constantly reminding me to do so. I took around two weeks to fill the form and after a bunch of rewrites I finally submitted the form. 
 
 Since I had previously been turned down for the Ethereum Fellowship and the Solana Fellowship, I was not very optimistic about being chosen for the fellowship. Thus, when I received this mail,
 
@@ -15,9 +15,9 @@ I couldn't believe it, I read it few more times to confirm it (I am not making t
 
 ### Sessions, Study Material and Assignments
 
-So each week covered one domain of Web3, like Defi, NFTs, Infrastructure etc. and was jammed with sessions, we used to get some study material and some assignments related to it. The study material was not made to be taken as in, it was made in such a way that it demanded research of each topic. The assignment were also kept challenging for us to give a lot of time to learning.
+Each week of the fellowship covered one domain of Web3, like Defi, NFTs, Infrastructure etc. and was jammed with sessions, study material and assignments related to it. The study material was not made to be taken as in, it was made in such a way that it demanded a lot of research. The assignment were also kept challenging for us to give a lot of time to learning.
 
-Week 1 had an intro session, and being an ambivert was I reluctant to speak up, I was so relieved when it went smoothly. Anyway, I eventually grew accustomed to turning off the mute and appearing on camera during the sessions. Each session was not only jam-packed with knowledge, but it also included a separate QA session, which was really helpful to me
+Week 1 had an intro session, and being an ambivert was I reluctant to speak up, I was so relieved when it went smoothly. Anyway, I eventually grew accustomed to turning on the mic and appearing on camera during the sessions. Each session was not only jam-packed with knowledge, but it also included a separate QA session, which was really helpful to me.
 
 Week 2 was about solidity and the assignment was a little hard for me, but someone from the community helped we with it on VOICE CHANNEL, without sharing the solution. I was awestruck 💜. I realised that Web3 has an awesome community and I can always rely on it.
 
@@ -25,7 +25,7 @@ Week 3 was again very challenging, it covered DeFi and it took me a lot of resea
 
 Week 4 to 7 went smoothly, since I got accustomed to speaking in public, sharing my ideas, by the week 7 I also started knowing a lot of fellows and connected to them on Twitter and other socials.
 
-During Week 6 and 7 the emphasise was on working on a project idea and present it to our mentors. I was so glad when my project idea was praised by my mentor as well as other peeps in Fellowship. 
+During Week 6 and 7 the emphasise was on working on a project idea and present it to our mentors. I felt proud when my project idea was praised by my mentor as well as other peeps in Fellowship. 
 
 My idea was Translat3 which is a a decentralized localization platform, where you will be able to localize your projects in a given language and translators will be rewarded for right translations.
 
