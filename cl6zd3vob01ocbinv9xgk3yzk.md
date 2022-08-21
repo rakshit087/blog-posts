@@ -27,7 +27,7 @@ Week 4 to 7 went smoothly, since I got accustomed to speaking in public, sharing
 
 During Week 6 and 7 the emphasise was on working on a project idea and present it to our mentors. I felt proud when my project idea was praised by my mentor as well as other peeps in Fellowship. 
 
-My idea was Translat3 which is a a decentralized localization platform, where you will be able to localize your projects in a given language and translators will be rewarded for right translations.
+My idea was Translat3 which is a a decentralized localization platform, where you will be able to localize your projects in a given language and translators will be rewarded for right translations. You can check that project out [here](https://devfolio.co/projects/translat-cbfc)
 
 ### The Hackerhouse
 
